@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated study."
+title: "Exploratory Evaluation of the Incremental Prognostic Value of a Transcriptomic Model in Lung Adenocarcinoma"
+type: software
+
+authors:
+  - family-names: "Torkamanian-Afshar"
+    given-names: "Mahsa"
+    orcid: "https://orcid.org/0000-0002-8658-4013"
+    affiliation: "Department of Software Engineering, Faculty of Engineering and Natural Sciences, İstanbul Topkapı University, Istanbul, Türkiye"
+
+repository-code: "https://github.com/mahsatorkamanianafshar-coder/Incremental-Prognostic-Value-LUAD"
+
+license: MIT
