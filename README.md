@@ -22,19 +22,24 @@ Due to data redistribution restrictions and file-size limitations, raw expressio
 
 ## Repository Contents
 
-- `code/` – analysis and modeling scripts
-- `results/` – reproducibility outputs and model results
-- `figures/` – figures generated from the analyses
-- `supplementary/` – supplementary reproducibility materials
-- `environment/` – software and package information
+This repository provides selected reproducibility materials associated with the study, including:
+
+- `data/` – information for accessing the publicly available datasets
+- `figures/` – selected figures generated from the analyses
+- `DATA_DICTIONARY.md` – description of study data and variables
+- `EXPERIMENTAL_VALIDATION_PROTOCOL.md` – external validation protocol
+- `METHODS_REPRODUCIBILITY_DETAILS.md` – methodological and reproducibility details
+- `renv.lock` – R package versions used for reproducibility
+
 
 ## Reproducibility
 
-The repository is intended to provide the materials necessary to reproduce the main analyses reported in the manuscript.
+This repository provides selected materials supporting the reproducibility and documentation of the analyses reported in the manuscript.
 
 ## Citation
 
-Citation information will be added upon publication of the article.
+Citation metadata for this repository are provided in `CITATION.cff`.
+The article citation and DOI will be added after publication.
 
 ## Author
 
@@ -48,4 +53,5 @@ ORCID: 0000-0002-8658-4013
 
 ## License
 
-License information will be added before the public release of the repository.
+
+The materials in this repository are provided under the MIT License. See `LICENSE` for details.
